@@ -8,21 +8,22 @@ Hello! I'm **Ahum Maitra**, a young technologist with a passion for English, com
 
 - **💼 Occupation:** Aspiring AI Engineer
 - **🎓 Interests:** AI, Coding, Web Development, Video Editing, English Education
-- **🗓️ Started Coding:** At age 6
+- **🗓️ Started Coding:** Few months ago
 - **🛠️ Languages & Tools:** Python, JavaScript, HTML, CSS, Video Editing Software, Mobile Editors etc.
 
 ## 🌐 Online Presence
 
-- **[YouTube Channel - Ahum Maitra](https://www.youtube.com/channel/yourchannel)**
-- **[English Blog](https://yourenglishblog.com)** - Insights and tips for learning English.
-- **[Course Website](https://yourcoursewebsite.com)** - A hub for my educational courses.
-- **[Computer Education Website](https://yourcomputereducationwebsite.com)** - A resource for tech enthusiasts.
-- **[Personal Website](https://yourpersonalwebsite.com)** - My portfolio and personal projects.
+- **[YouTube Channel - Ahum Maitra]**
+- **[English Blog]
+  (Check my YouTube channel about)**
+- **[Course Website](Check out my YouTube channel or search 'Ahum Maitra' on Google)** - A hub for my educational courses.
+- **[Computer Education Website](Check out my YouTube channel)** - A resource for tech enthusiasts.
+- **[Personal Website](https://ahummaitra63.wixsite.com/ahum-maitra or https://ahummaitra.wixstudio.io/ahummaitra)** - My portfolio and personal projects.
 
 ## ✨ Featured Projects
 
 ### 📚 English Education
-I share educational content on my [YouTube channel](https://www.youtube.com/channel/yourchannel), focusing on teaching English and exploring the world of technology.
+I share educational content on my [YouTube channel](https://youtube.com/@ahummaitraenglish?si=gkiNlsy1orFFuXUQ), focusing on teaching English and exploring the world of technology.
 
 ### 🌌 Fictional World: Planet AM
 Discover **Planet AM**, a creative fictional world where time moves faster than on Earth, a space for innovation and imagination.
@@ -33,9 +34,7 @@ My dream is to become an **AI Engineer** and continue sharing my knowledge with 
 
 ## 📫 Let's Connect!
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** ahummaitra63@gmail.com
 
 ![Footer](https://via.placeholder.com/1200x100?text=Thank+You+for+Visiting!)
 
