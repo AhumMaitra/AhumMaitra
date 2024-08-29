@@ -1,5 +1,22 @@
 # 🌟 Ahum Maitra 🌟
 
+
+
+***I love these programming languages***
+
+**1. Python** **(I ❤️ Python)**
+**2. HTML**
+**3. CSS**
+**4. JavaScript**
+**5. Mongo DB**
+**6. Sql**
+**7. Java**
+**8. Php**
+**9. SCSS**
+**10. C and C++, C#**
+**11. Java**
+
+
 ![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Ahum+Maitra's+GitHub)
 
 Hello! I'm **Ahum Maitra**, a young technologist with a passion for English, computer science, coding, editing, designing, and artificial intelligence. My journey into the world of technology started when I was just six years old, and I've been exploring ever since!
@@ -7,7 +24,7 @@ Hello! I'm **Ahum Maitra**, a young technologist with a passion for English, com
 ## 🚀 About Me
 
 - **💼 Occupation:** Aspiring AI Engineer
-- **🎓 Interests:** AI, Coding, Web Development, Video Editing, English Education
+- **🎓 Interests:** AI, Coding, Web Development, Video Editing, English Education, Python
 - **🗓️ Started Coding:** Few months ago
 - **🛠️ Languages & Tools:** Python, JavaScript, HTML, CSS, Video Editing Software, Mobile Editors etc.
 
